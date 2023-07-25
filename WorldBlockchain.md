@@ -1,0 +1,1 @@
+The blockchain of the United States of Earth will operate all financial transactions within the world monetary system and will operate all voting within the world democracy. Localities will each have supercomputers to run full nodes that connect to devices with wallet apps and voting apps via the internet.
