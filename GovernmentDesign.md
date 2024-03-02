@@ -2,4 +2,4 @@ Anyone can propose legislation and everyone votes on all legislation. If you cho
 
 Senators will not be elected from geographic districts. Instead we will use something called Decentralized Representation. The total population of Earth will be divided randomly into approximately 4000 sets of 2,000,000 people. Each of these random sets of people will elect a representative to the Senate. So, there will be approximately 4000 Senators in the Senate.
 
-The Chief Executive will be elected through three or four rounds of voting with progressively smaller field of candidates in each round until the final round of voting of just two candidates. The candidate with the most votes in the final round of voting becomes Chief Executive.
+The Chief Executive will be elected through three or four rounds of voting with a progressively smaller field of candidates in each round until the final round of voting of just two candidates. The candidate with the most votes in the final round of voting becomes Chief Executive.
