@@ -4,4 +4,4 @@ Senators will not be elected from geographic districts. Instead we will use some
 
 The Chief Executive will be elected through three or four rounds of voting with a progressively smaller field of candidates in each round until the final round of voting of just two candidates. The candidate with the most votes in the final round of voting becomes Chief Executive. The term length for the Chief Executive is six years with a maximum of two terms per person.
 
-There will be a court system where laws can be challenged. It will be a tiered system of courts and the cases will move up the ladder. The judiciary will essentially be modeled after the U.S. court system with few changes. There will be a Supreme Court made up of a group of justices appointed by the Chief Executive.
+There will be a court system where laws can be challenged. It will be a tiered system of courts and the cases will move up the ladder. The judiciary will essentially be modeled after the U.S. court system with few changes. There will be a Supreme Court made up of 215 Justices appointed by the Chief Executive for lifetime terms.
